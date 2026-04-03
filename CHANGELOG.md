@@ -1,7 +1,8 @@
-## [1.4.3](https://github.com/Noah-Ywh/eslint-config/compare/v1.4.2...v1.4.3) (2026-04-03)
+## [1.4.4](https://github.com/Noah-Ywh/eslint-config/compare/v1.4.2...v1.4.4) (2026-04-03)
 
 ### 🛠️Chore
 
+- 更新依赖 ([5b436f2](https://github.com/Noah-Ywh/eslint-config/commit/5b436f2947ec990ad7e76812192bb5e99970aefa))
 - 更新依赖 ([2f2069c](https://github.com/Noah-Ywh/eslint-config/commit/2f2069c38845b38604ebae339c92f657a612b0bc))
 
 ## [1.4.2](https://github.com/Noah-Ywh/eslint-config/compare/v1.4.1...v1.4.2) (2024-07-04)
