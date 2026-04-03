@@ -1,6 +1,6 @@
 {
   "name": "@noahyu/eslint-config-vue",
-  "version": "1.4.2",
+  "version": "1.4.3",
   "type": "module",
   "description": "ESlint config for Vue 3 + TypeScript",
   "main": "./dist/index.js",
