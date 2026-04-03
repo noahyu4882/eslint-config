@@ -24,15 +24,15 @@
   "homepage": "https://paint-js.com/docs/eslint-config",
   "license": "MIT",
   "engines": {
-    "node": ">=20.0.0",
-    "pnpm": ">=9.0.0"
+    "node": ">=24.0.0",
+    "pnpm": ">=10.0.0"
   },
   "publishConfig": {
     "access": "public"
   },
   "peerDependencies": {
-    "eslint": ">=9.6.0",
-    "prettier": ">=3.0.0"
+    "eslint": ">=10.1.0",
+    "prettier": ">=3.8.1"
   },
   "dependencies": {
     "@eslint/js": "^10.0.1",
